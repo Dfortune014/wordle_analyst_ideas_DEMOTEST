@@ -32,3 +32,6 @@ That's not a particularly noble approach, but it seems like you could get perfec
 
 ### Update:
 Sometime in May 2023 the NYT started to scramble the word order.
+
+Very Interesting Change:
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
