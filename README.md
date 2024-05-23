@@ -1,5 +1,5 @@
 # wordle_analyst_ideas
-The hit game wordle is fun. I've been thinking about an algorithm to look at ways to optimize the path to eliminating alternative guesses -- this is a network path optimization problem and I need to get better at understanding such problems, so I've decided to try to look at this. 
+The hit game wordle is not fun at all. I've been thinking about an algorithm to look at ways to optimize the path to eliminating alternative guesses -- this is a network path optimization problem and I need to get better at understanding such problems, so I've decided to try to look at this. 
 
 The game consists of a list of words, any of which could be the starting point, and any of which could be the ending point. Multiple pathways connect through the middle because of the potential for a number of words to satisfy the conditions imposed by the response to any given guess. 
 
@@ -31,4 +31,7 @@ For the moment, it appears that the wordlist is being used without any randomiza
 That's not a particularly noble approach, but it seems like you could get perfect scores.
 
 ### Update:
-Sometime in May they started to scramble the word order.
+Sometime in May 2023 the NYT started to scramble the word order.
+
+Very Interesting Change:
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
